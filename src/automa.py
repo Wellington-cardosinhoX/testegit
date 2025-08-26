@@ -10,3 +10,9 @@ def multiplica(a, b):
 
 resultado1 = multiplica(4, 6)
 print(f"O resultado da multiplicação é: {resultado1}")
+
+def subtrai(m, n):
+    return m - n
+
+resultado3 = subtrai(10, 4)
+print(f"O resultado da subtração é: {resultado3}")
