@@ -14,5 +14,7 @@ print(f"O resultado da multiplicação é: {resultado1}")
 def subtrai(m, n):
     return m - n
 
+
+# temos o subtrair agora
 resultado3 = subtrai(10, 4)
 print(f"O resultado da subtração é: {resultado3}")
